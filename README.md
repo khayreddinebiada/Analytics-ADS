@@ -1,2 +1,2 @@
 # Analytics-ADS
- This plugins will help for better integrate analytics and ADS for mobile games
+ This plugins is help for make better integration analytics and ADS on mobile games.
